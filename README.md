@@ -22,7 +22,7 @@ Designed for job seekers, HR professionals, and recruiters, it helps improve res
 📦 **Installation**
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Suvansh-DevHub/CareerCraft-AI-Powered-Resume-Analyzer-Powered-by-Grok-AI-
 cd careercraft-resume-analyzer
 ```
 
@@ -115,12 +115,19 @@ careercraft-resume-analyzer/
 - Max file size: 16MB
 - Supported format: PDF only
 
-🤝 **Contributing**
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
+
+## Deployment Link
+[CareerCraft-Resume Analyzer](https://careercraft-ai-powered-resume-analyzer.onrender.com/)
+
+
+## Acknowledgments
+- Flask for providing a lightweight yet powerful backend framework.
+- Grok AI for powering AI-driven resume analysis and ATS optimization insights.
+- python-dotenv for secure environment variable management.
+- PyPDF2 for efficient PDF text extraction.
+- Matplotlib for creating doughnut chart visualizations.
+- HTML5, CSS3, and JavaScript for building a modern, responsive front-end.
+- Render for seamless cloud deployment.
 
 📜 **License**  
 This project is licensed under the MIT License – see the LICENSE file for details.
