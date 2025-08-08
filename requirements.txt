@@ -9,6 +9,9 @@ matplotlib==3.7.2
 Werkzeug==2.3.7
 requests==2.31.0
 gunicorn
+numpy<2
+
+
 
 
 
