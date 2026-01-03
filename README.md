@@ -128,7 +128,13 @@ careercraft-resume-analyzer/
 - Matplotlib for creating doughnut chart visualizations.
 - HTML5, CSS3, and JavaScript for building a modern, responsive front-end.
 - Render for seamless cloud deployment.
-  
 
-📜 **License**  
-This project is licensed under the MIT License – see the LICENSE file for details.
+
+## 📜 License
+This project is licensed under the MIT License 
+
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out.
